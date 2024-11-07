@@ -12,7 +12,7 @@
   - [Zenn](https://zenn.dev/hrt87ceeb)
 - 📫 **Contact**:
   - Email: 
-- 💬 **One-liner**: "The time will come when all applications will be web-based."
+- 💬 **One-liner**: ""
 
 ## ⭐ Github Stats
 
