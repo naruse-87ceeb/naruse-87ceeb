@@ -32,19 +32,19 @@
 
 ## 💻 Programming Languages
 
-[![Programming Languages](https://skillicons.dev/icons?perline=8&i=html,css,js,ts,php,java,py,cs,go)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?perline=8&i=html,css,js,ts,php,java,py,dart,c,haskell,kotlin)](https://skillicons.dev)
 
 ## 📚 Library & Framework
 
-[![Library & Framework](https://skillicons.dev/icons?perline=8&i=react,nextjs,vue,nuxtjs,vuetify,astro,svelte,jquery,electron,pug,sass,bootstrap,tailwind,laravel)](https://skillicons.dev)
+[![Library & Framework](https://skillicons.dev/icons?perline=8&i=vue,nuxtjs,vuetify,svelte,svelt,jquery,pug,sass,bootstrap,laravel,express,flutter)](https://skillicons.dev)
 
 ## 🌐 Platforms
 
-[![Library & Framework](https://skillicons.dev/icons?perline=8&i=gcp,firebase,nodejs,github)](https://skillicons.dev)
+[![Library & Framework](https://skillicons.dev/icons?perline=8&i=gcp,firebase,nodejs,github,supabase)](https://skillicons.dev)
 
 ## 🛠️ Tools
 
-[![Tools](https://skillicons.dev/icons?perline=8&i=npm,pnpm,bun,webpack,vite,git,githubactions,regex)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?perline=8&i=npm,pnpm,webpack,git)](https://skillicons.dev)
 
 ## 💾 Softwares
 
@@ -52,4 +52,4 @@
 
 ## 📱Applications
 
-[![Applications](https://skillicons.dev/icons?perline=8&i=androidstudio,idea,vscode,discord,postman,wordpress)](https://skillicons.dev)
+[![Applications](https://skillicons.dev/icons?perline=8&i=androidstudio,idea,vscode,discord,postman,wordpress,figma,emacs,ps,unreal)](https://skillicons.dev)
