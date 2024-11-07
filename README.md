@@ -52,4 +52,4 @@
 
 ## 📱Applications
 
-[![Applications](https://skillicons.dev/icons?perline=8&i=androidstudio,idea,vscode,discord,postman,wordpress,figma,emacs,ps,unreal)](https://skillicons.dev)
+[![Applications](https://skillicons.dev/icons?perline=8&i=androidstudio,vscode,discord,postman,wordpress,figma,emacs,ps,unreal)](https://skillicons.dev)
