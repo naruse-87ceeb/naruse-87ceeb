@@ -6,7 +6,7 @@
 - 👤 **Name**: Naruse
 - 👨 **Gender**: He/Him
 - 🌍 **Location**: Aichi, Japan
-- 👩‍💻 **Profession**: Automotive prototype parts assembler
+- 👩‍💻 **Profession**: Enrolled in college
 - 🎨 **Hobbies**: Programming, Game 
 - 🔗 **Links**:
   - [Zenn](https://zenn.dev/hrt87ceeb)
