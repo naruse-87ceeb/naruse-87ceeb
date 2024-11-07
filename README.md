@@ -36,7 +36,7 @@
 
 ## 📚 Library & Framework
 
-[![Library & Framework](https://skillicons.dev/icons?perline=8&i=vue,nuxtjs,vuetify,svelte,svelt,jquery,pug,sass,bootstrap,laravel,express,flutter)](https://skillicons.dev)
+[![Library & Framework](https://skillicons.dev/icons?perline=8&i=vue,nuxtjs,vuetify,svelte,jquery,pug,sass,bootstrap,laravel,express,flutter)](https://skillicons.dev)
 
 ## 🌐 Platforms
 
