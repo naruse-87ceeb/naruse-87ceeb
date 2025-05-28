@@ -7,7 +7,7 @@
 - 👨 **Gender**: He/Him
 - 🌍 **Location**: Aichi, Japan
 - 👩‍💻 **Profession**: Enrolled in college
-- 🎨 **Hobbies**: research
+- 🎨 **Hobbies**: 
 - 🔗 **Links**:
   - [Zenn](https://zenn.dev/hrt87ceeb)
 - 📫 **Contact**:
