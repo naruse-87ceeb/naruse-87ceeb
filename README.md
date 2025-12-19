@@ -25,10 +25,11 @@
   </a>
 </div>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=naruse-87ceeb&theme=flat&margin-w=15&margin-h=15" alt="GitHub Trophy">
-</a>
+</a> -->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=naruse-87ceeb)](https://github.com/naruse-87ceeb/github-profile-trophy)
 
 ## 💻 Programming Languages
 
