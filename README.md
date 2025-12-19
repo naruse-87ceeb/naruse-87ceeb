@@ -44,7 +44,7 @@
 ## 🛠️ Tools
 
 [![Tools](https://skillicons.dev/icons?perline=8&i=npm,pnpm,webpack,git)](https://skillicons.dev)
-<img src="https://cdn.simpleicons.org/latex/white" width="48" height="48" alt="latex" style="vertical-align: top; margin-left: 4px;" />
+<img src="https://cdn.simpleicons.org/latex/white" width="48" height="48" alt="latex" style="vertical-align: top; margin-left: 4px; background-color:brack;" />
 
 ## 💾 Softwares
 
