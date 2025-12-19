@@ -29,8 +29,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=naruse-87ceeb&theme=flat&margin-w=15&margin-h=15" alt="GitHub Trophy">
 </a> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=naruse-87ceeb)](https://github.com/naruse-87ceeb/github-profile-trophy)
-
 ## 💻 Programming Languages
 
 [![Programming Languages](https://skillicons.dev/icons?perline=8&i=html,css,js,ts,php,java,py,dart,c,haskell,kotlin)](https://skillicons.dev)
